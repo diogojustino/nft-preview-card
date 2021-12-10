@@ -1,2 +1,2 @@
-# nft-preview-card
-This project is a challenge from FrontEndMento[https://www.frontendmentor.io/]
+# NFT preview card
+This project is a challenge from [FrontEnd Mentor](https://www.frontendmentor.io/)
